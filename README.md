@@ -10,10 +10,7 @@ Ce projet a été réalisé dans le cadre de mes études pour mettre en place un
 - Tester le système avec des attaques simulées.
 
 ## Contenu du dépôt
-- **[resume_complet.pdf](resume_complet.pdf)** : Rapport détaillé de toutes les étapes du projet (installation, configuration, tests).
-- **[presentation.pdf](presentation.pdf)** : Présentation sous forme de diapositives pour une soutenance.
-- **[resume_complet.tex](resume_complet.tex)** : Code LaTeX du rapport.
-- **[presentation.tex](presentation.tex)** : Code LaTeX de la présentation.
+- **[Snort.pdf](Snort.pdf)** : Rapport détaillé de toutes les étapes du projet (installation, configuration, tests).
 
 ## Étapes du projet
 1. **Installation de Snort et DAQ** :
